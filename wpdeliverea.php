@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       wpdeliverea
  * Plugin URI:        https://github.com/Efraimcat/wpdeliverea/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Funcionalidades Deliverea.
  * Version:           1.0.0
  * Author:            Efraim Bayarri
  * Author URI:        https://efraim.cat
