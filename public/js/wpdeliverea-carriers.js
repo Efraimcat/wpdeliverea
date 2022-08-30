@@ -10,8 +10,7 @@ $(document).ready(function(){
     }
 
 
-    // PAGINA CARRIERS
-    if ( window.location.href.indexOf("carriers") != -1){
+    if ( window.location.href.indexOf("comparativa") === -1){ // no activar si es la página comparativa
 
       console.log('Entrada carriers');
 
@@ -117,7 +116,7 @@ $(document).ready(function(){
         element.addEventListener('click', function(){ window.location.href = idioma_wpml+'/carriers/mondial/'; } , false);
       });
 
-    } // END PAGINA CARRIERS
+    } // END no activar si es la página comparativa
 
     //getCookie('wp-wpml_current_language')
     function getCookie(c_name) {
